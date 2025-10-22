@@ -3,6 +3,7 @@ package ua.edu.ucu.lab_7.flower;
 import java.util.LinkedList;
 
 import ua.edu.ucu.lab_7.delievery.Delievery;
+import ua.edu.ucu.lab_7.payment.Payment;
 
 public class Order {
 
